@@ -1,0 +1,10 @@
+# Excluir archivos ejecutables
+*.exe
+*.dll
+*.sh
+*.bat
+
+# Excluir carpetas comunes que no deberían ser desplegadas
+node_modules/
+build/
+
